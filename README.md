@@ -5,7 +5,7 @@
 
 <p align="center">
   The <em>all-in-one</em> starter kit <br/>
-  for building multi-tenant applications.
+  for building multi-tenant apps.
 </p>
 
 <p align="center">
